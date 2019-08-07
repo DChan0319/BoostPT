@@ -1,0 +1,3 @@
+[submodule "BoostPT-Api"]
+	path = BoostPT-Api
+	url = git@github.com:DChan0319/BoostPT-Api.git
